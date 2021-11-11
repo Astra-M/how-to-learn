@@ -1,4 +1,6 @@
+.logo {
+  transition: opacity 0.5s linear;
+}
 .logo:hover {
   opacity: .5;
-  transition: opacity 0.5s linear;
 }
